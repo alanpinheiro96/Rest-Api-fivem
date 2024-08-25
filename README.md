@@ -1,2 +1,3 @@
-# Rest-Api-fivem
-Api para executar função em Lua via Http Request 
+# rest-api-fivem
+
+API simples para executar alguma funcao do LUA via http request
